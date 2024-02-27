@@ -1,3 +1,3 @@
 # demoForGit
 My first Repository
-Author - Vishwas C V
+Author - Vishwas CV
